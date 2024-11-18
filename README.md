@@ -1,76 +1,81 @@
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://portfolio-monk0707s-projects.vercel.app/" target="_blank">mvrx.tech</a>
+  Portfolio Website<br/>
+  <a href="https://portfolio-shubhrajit-biswas-projects.vercel.app/" target="_blank">Shubhrajit Biswas</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/portfolioHomeImg.png" />
+  <img alt="Demo" src="./Images/my-portfolio-img.png" />
 </div>
 
 <br/>
 
-<center>
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/monk0707/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/monk0707/Portfolio?color=red&logo=github&style=for-the-badge)
-
-</center>
+<div align="center">
+</div>
 
 <h3 align="center">
-    🔹
-    <a href="https://github.com/monk0707/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/monk0707/Portfolio/issues">Request Feature</a>
+  🔹 <a href="https://github.com/ShubhrajitBiswas/portfolio/issues">Report Bug</a> &nbsp; &nbsp; 🔹 <a href="https://github.com/ShubhrajitBiswas/portfolio/issues">Request Feature</a>
 </h3>
 
-## TL;DR
+## 🚀 About the Project
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [monk0707](https://github.com/monk0707/Portfolio). Thanks!
+This is my personal portfolio website, built to showcase my GitHub projects, resume, and technical skills. You can explore the live website here: <a href="https://portfolio-shubhrajit-biswas-projects.vercel.app/" target="_blank">Shubhrajit Biswas</a>.
 
-## Built With
 
-My personal portfolio <a href="https://portfolio-monk0707s-projects.vercel.app/" target="_blank">mvrx.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+The website has a multi-page layout, is fully responsive, and features easy-to-customize styling.
 
-This project was built using these technologies.
+## 🛠️ Built With
+The project was built using the following technologies:
 
-- React.js
-- Node.js
-- Express.js
-- CSS3
-- VsCode
-- Vercel
+React.js for the frontend,
+Node.js and Express.js for backend setup
 
-## Features
+CSS3 for styling
+React-Bootstrap for UI components
 
-**📖 Multi-Page Layout**
+Vercel for deployment
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+GitHub for version control
 
-**📱 Fully Responsive**
+VS Code for development
+## 🌟 Features
 
-## Getting Started
+📖 Multi-Page Layout: Organized and easy navigation
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+🎨 Styled Design: Clean and customizable UI
 
-## 🛠 Installation and Setup Instructions
+📱 Fully Responsive: Compatible with all screen sizes
 
-1. Installation: `npm install`
+## ⚙️ Getting Started
+To run this project locally, follow these steps:
 
-2. In the project directory, you can run: `npm start`
+## 📌 Prerequisites
+Ensure that you have the following installed on your machine:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
+Node.js
+Git
+Installation and Setup
+Clone the repository:
+git clone https://github.com/ShubhrajitBiswas/portfolio.git
 
-## Usage Instructions
+Navigate to the project directory:
+cd portfolio
 
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
+Install dependencies:
+npm install
 
-### Show your support
+Run the development server:
+npm start
 
-Give a ⭐ if you like this website!
+The app will run in development mode. Open http://localhost:3000 in your browser to view it.
 
-<a href="https://www.buymeacoffee.com/monk0707" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+## 📖 Usage Instructions
+To customize the portfolio:
+
+Open the project folder.
+Navigate to the /src/components/ directory.
+Modify the components to update your information, such as your name, projects, and skills.
+## ❤️ Show Your Support
+Give this repository a ⭐ if you found it helpful or inspiring!
+
+## 🤝 Contributions
+
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
