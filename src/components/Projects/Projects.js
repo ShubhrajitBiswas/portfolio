@@ -4,10 +4,10 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import eduTechImg from "../../Assets/Projects/eduTechImg.png";
 import ticTacToeImg from "../../Assets/Projects/ticTacToeImg.png";
-import randomPassImg from "../../Assets/Projects/randomPassImg.png";
-import bgmiProjectImg from "../../Assets/Projects/bgmiProjectImg.png";
+import randomPassImg1 from "../../Assets/Projects/randomPassImg1.png";
 import parallaxImg from "../../Assets/Projects/parallaxImg.png";
 import shoppingCartImg from "../../Assets/Projects/shoppingCartImg.png";
+import algovisionProjectImg from "../../Assets/Projects/algovisionProjectImg.png"
 
 function Projects() {
   return (
@@ -21,16 +21,18 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={bgmiProjectImg}
-              isBlog={false}
-              title="BGMI Tournaments "
-              description="Developed a web application to streamline the process of organizing and participating in BGMI (Battlegrounds Mobile India) tournaments."
-              ghLink="https://github.com/monk0707/bgmi-tournaments"
-              demoLink="https://www.bgmitournaments.in/"
-            />
-          </Col>
+        <Col md={4} className="project-card">
+  <ProjectCard
+    imgPath={algovisionProjectImg}
+    isBlog={false}
+    title="AlgoVision"
+    description="Built an interactive web app for visualizing algorithms, making complex concepts in sorting, searching, and pathfinding more accessible. Includes personalized recommendations and insights into time and space complexity."
+    ghLink="https://github.com/ShubhrajitBiswas/AlgoVision"
+    demoLink="https://algovision.vercel.app/"
+  />
+</Col>
+
+
 
           <Col md={4} className="project-card">
             <ProjectCard
@@ -45,14 +47,14 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={randomPassImg}
+              imgPath={randomPassImg1}
               isBlog={false}
               title="RANDOM PASSWORD GENERATOR"
               description="•	One can set constraints to generate the password like including uppercase letters, lowercase letters, Numbers and Symbols.
 •	One can also set the length of the password to generate and we can also get to know whether the generated password is strong or weak.
 "
-              ghLink="https://github.com/monk0707/random-password-generator"
-              demoLink=" https://monk0707.github.io/random-password-generator/"            
+              ghLink="https://github.com/ShubhrajitBiswas/Random_Password_Generator"
+              demoLink=" https://shubhrajitbiswas.github.io/Random_Password_Generator/"            
             />
           </Col>
 
