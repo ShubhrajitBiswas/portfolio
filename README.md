@@ -1,76 +1,62 @@
-<h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://portfolio-monk0707s-projects.vercel.app/" target="_blank">mvrx.tech</a>
-</h2>
-<div align="center">
-  <img alt="Demo" src="./Images/portfolioHomeImg.png" />
+<h2 align="center"> Portfolio Website<br/> <a href="https://portfolio-shubhrajit-biswas-projects.vercel.app/" target="_blank">Shubhrajit Biswas</a> </h2> <div align="center"> <img alt="Demo" src="./Images/my-portfolio-img.png" /> </div> <br/> <div align="center">
+  
+
 </div>
+<h3 align="center"> 🔹 <a href="https://github.com/ShubhrajitBiswas/portfolio/issues">Report Bug</a> &nbsp; &nbsp; 🔹 <a href="https://github.com/ShubhrajitBiswas/portfolio/issues">Request Feature</a> </h3>
+🚀 About the Project
+This is my personal portfolio website, built to showcase my GitHub projects, resume, and technical skills. You can explore the live website here: <a href="https://portfolio-shubhrajit-biswas-projects.vercel.app/" target="_blank">Shubhrajit Biswas</a>.
 
-<br/>
+The website has a multi-page layout, is fully responsive, and features easy-to-customize styling.
 
-<center>
+🛠️ Built With
+The project was built using the following technologies:
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/monk0707/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/monk0707/Portfolio?color=red&logo=github&style=for-the-badge)
+React.js for the frontend
+Node.js and Express.js for backend setup
+CSS3 for styling
+React-Bootstrap for UI components
+Vercel for deployment
+GitHub for version control
+VS Code for development
+🌟 Features
+📖 Multi-Page Layout: Organized and easy navigation
+🎨 Styled Design: Clean and customizable UI
+📱 Fully Responsive: Compatible with all screen sizes
+⚙️ Getting Started
+To run this project locally, follow these steps:
 
-</center>
+Prerequisites
+Ensure that you have the following installed on your machine:
 
-<h3 align="center">
-    🔹
-    <a href="https://github.com/monk0707/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/monk0707/Portfolio/issues">Request Feature</a>
-</h3>
+Node.js
+Git
+Installation and Setup
+Clone the repository:
 
-## TL;DR
+bash
+git clone https://github.com/ShubhrajitBiswas/portfolio.git
+Navigate to the project directory:
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [monk0707](https://github.com/monk0707/Portfolio). Thanks!
+bash
+cd portfolio
+Install dependencies:
 
-## Built With
+bash
+npm install
+Run the development server:
 
-My personal portfolio <a href="https://portfolio-monk0707s-projects.vercel.app/" target="_blank">mvrx.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+bash
+npm start
+The app will run in development mode. Open http://localhost:3000 in your browser to view it.
 
-This project was built using these technologies.
+📖 Usage Instructions
+To customize the portfolio:
 
-- React.js
-- Node.js
-- Express.js
-- CSS3
-- VsCode
-- Vercel
+Open the project folder.
+Navigate to the /src/components/ directory.
+Modify the components to update your information, such as your name, projects, and skills.
+❤️ Show Your Support
+Give this repository a ⭐ if you found it helpful or inspiring!
 
-## Features
-
-**📖 Multi-Page Layout**
-
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
-
-**📱 Fully Responsive**
-
-## Getting Started
-
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
-
-## 🛠 Installation and Setup Instructions
-
-1. Installation: `npm install`
-
-2. In the project directory, you can run: `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
-
-## Usage Instructions
-
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
-
-### Show your support
-
-Give a ⭐ if you like this website!
-
-<a href="https://www.buymeacoffee.com/monk0707" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+🤝 Contributions
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
